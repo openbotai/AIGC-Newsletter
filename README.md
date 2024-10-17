@@ -1,7 +1,6 @@
 # AIGC Newsletter
 
- AIGC Newsletter  [aigc.openbot.ai](https://aigc.openbot.ai/)
-
+AIGC Newsletter  [aigc.openbot.ai](https://aigc.openbot.ai/)
 
 more AIGC News: [AI News](https://ainews.kol.tools/)
 
@@ -147,7 +146,7 @@ more AIGC News: [AI News](https://ainews.kol.tools/)
 - [Daily Papers and AI News Tracking(1.4)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking14)
 - [Daily Papers and AI News Tracking(1.3)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking13)
 - [Daily Papers and AI News Tracking(1.2)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking12)
--[Daily Papers and AI News Tracking(1.1)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking11)
+- [Daily Papers and AI News Tracking(1.1)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking11)
 
 
 ### 2023 
@@ -183,11 +182,7 @@ more AIGC News: [AI News](https://ainews.kol.tools/)
 - [Daily Papers and AI News Tracking(12.3)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking123)
 - [Daily Papers and AI News Tracking(12.2)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking122)
 - [Daily Papers and AI News Tracking(12.1)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking121)
-
-
-
 - [Daily Papers and AI News Tracking(11.30)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking1130)
 - [Daily Papers and AI News Tracking(11.29)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking1129)
 - [Daily Papers and AI News Tracking(11.28)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking1128)
 - [Daily Papers and AI News Tracking(11.27)](https://aigc.openbot.ai/p/daily-papers-and-ai-news-tracking1127)
-
